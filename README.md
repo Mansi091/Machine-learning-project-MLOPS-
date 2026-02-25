@@ -12,4 +12,6 @@ The dataset contains:
 
 ## Model Used
 - Linear Regression
-- Random Forest
+
+### Model Summary
+We trained a Linear Regression model and evaluated it using RMSE and R2 score.
