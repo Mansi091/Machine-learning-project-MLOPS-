@@ -1,2 +1,15 @@
-# Machine-learning-project-MLOPS-
-A machine learning project repository created to practice Git version control, dataset management, and collaborative development using cloning, commits, and pull requests.
+# House Price Prediction ML Project
+
+## Project Goal
+To predict house prices using machine learning models.
+
+## Dataset
+The dataset contains:
+- Area
+- Bedrooms
+- Bathrooms
+- Price
+
+## Model Used
+- Linear Regression
+- Random Forest
